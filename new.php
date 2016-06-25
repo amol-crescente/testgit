@@ -1,3 +1,3 @@
 <?php
-echo "new";
+echo "new 123";
 ?>
